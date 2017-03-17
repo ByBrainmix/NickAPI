@@ -1,0 +1,5 @@
+name: NickAPI
+version: 1.0
+author: Brainmix
+main: me.brainmix.nickapi.NickAPIPlugin
+depend: [ProtocolLib]
